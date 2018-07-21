@@ -1,0 +1,2 @@
+hdfs dfs -chmod 777 nag.txt
+hdfs dfs -mv nag.txt
